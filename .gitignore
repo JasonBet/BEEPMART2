@@ -72,3 +72,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 UnityLockfile
+BEEPMART2/Library/ArtifactDB
+BEEPMART2/Library/ArtifactDB
+BEEPMART2/Library/Bee/backend_profiler0.traceevents
+BEEPMART2/Library/Bee/fullprofile.json
+BEEPMART2/Library/Bee/tundra.digestcache
+*.log
