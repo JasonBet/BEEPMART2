@@ -78,3 +78,9 @@ BEEPMART2/Library/Bee/backend_profiler0.traceevents
 BEEPMART2/Library/Bee/fullprofile.json
 BEEPMART2/Library/Bee/tundra.digestcache
 *.log
+BEEPMART2/Temp/workerlic
+BEEPMART2/Temp/PropertyDatabase_1265138678
+BEEPMART2/Temp/FSTimeGet-0a08c4f08e01fff4f8d2bf01ee305010
+BEEPMART2/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+BEEPMART2/Library/SourceAssetDB
+BEEPMART2/Logs/shadercompiler-UnityShaderCompiler.exe0.log
